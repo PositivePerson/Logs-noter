@@ -15,5 +15,3 @@ After download and install npm dependencies you can run:
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-## Learn More
