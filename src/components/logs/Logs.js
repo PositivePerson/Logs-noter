@@ -5,8 +5,9 @@ import PreLoader from '../layout/Preloader';
 import PropTypes from 'prop-types';
 import { getLogs } from '../../actions/logActions';
 
-const Logs = ({ log: { logs, loading }, getLogs }) => {
+const Logs = ({ log: { logs, loading, current }, getLogs }) => {
 	console.log(logs);
+	// console.log(current);
 	useEffect(() => {
 		getLogs();
 		//eslint-disable-next-line
