@@ -20,6 +20,11 @@
       "id": 1,
       "firstName": "John",
       "lastName": "Doe"
+    },
+    {
+      "firstName": "Curry",
+      "lastName": "Pottea",
+      "id": 3
     }
   ]
 }
